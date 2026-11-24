@@ -1466,14 +1466,40 @@ function esc(t){return String(t).replace(/[&<>"]/g,function(c){return {'&':'&amp
 function url(h){return /^https?:/.test(h)?h:ROOT+h;}
 function stem(q){return q.length>5?q.slice(0,-2):q.length>4?q.slice(0,-1):q;}
 function hl(t,q){var i=t.toLowerCase().indexOf(q);if(i<0){q=stem(q.split(/\s+/)[0]);i=t.toLowerCase().indexOf(q);}if(i<0)return esc(t);return esc(t.slice(0,i))+'<mark>'+esc(t.slice(i,i+q.length))+'</mark>'+esc(t.slice(i+q.length));}
-function load(){if(window.__SEARCH||document.getElementById('ws-data'))return;var s=document.createElement('script');s.id='ws-data';s.src=ROOT+'data/search.js';document.head.appendChild(s);}
-window.__searchReady=function(){render();};
+var indexFailed=false;
+function load(){
+ if(window.__SEARCH||document.getElementById('ws-data')||indexFailed)return;
+ var s=document.createElement('script');
+ s.id='ws-data';
+ s.src=new URL('assets/wiki-index.js',ROOT).href;
+ var timeout=setTimeout(fail,10000);
+ function fail(){
+  clearTimeout(timeout);
+  s.remove();
+  indexFailed=true;
+  render();
+ }
+ s.onerror=fail;
+ s.onload=function(){
+  clearTimeout(timeout);
+  if(window.__SEARCH){indexFailed=false;render();}else{fail();}
+ };
+ document.head.appendChild(s);
+}
 function shop(q){var u='https://sunlight.net/catalog/?query='+encodeURIComponent(q);
  return '<div class="ws-g"><div class="ws-h">Украшения SUNLIGHT</div><a class="ws-it ws-shop" href="'+u+'" target="_blank" rel="noopener"><span class="ws-th ws-th-s">'+IMG+'</span><span class="ws-t"><span class="ws-n">Найти «'+esc(q)+'» в каталоге SUNLIGHT</span><span class="ws-s">Перейти в магазин sunlight.net ↗</span></span></a>'+
  '<div class="ws-cats">'+CAT.map(function(c){return '<a href="https://sunlight.net/catalog/?query='+encodeURIComponent(c[1]+' '+q)+'" target="_blank" rel="noopener">'+esc(c[0])+'</a>';}).join('')+'</div></div>';}
 function render(){var q=inp.value.trim(),ql=q.toLowerCase();res.hidden=false;
  if(!q){res.innerHTML='<div class="ws-g"><div class="ws-h">Популярное</div><div class="ws-pop">'+POP.map(function(p){return '<button type="button">'+esc(p)+'</button>';}).join('')+'</div></div>';return;}
- if(!window.__SEARCH){load();res.innerHTML='<div class="ws-g"><div class="ws-empty">Ищу…</div></div>';return;}
+ if(!window.__SEARCH){
+  load();
+  if(indexFailed){
+   res.innerHTML=shop(q)+'<div class="ws-g"><div class="ws-empty">Не удалось загрузить поиск по энциклопедии. <button type="button" class="ws-retry">Повторить</button></div></div>';
+  }else{
+   res.innerHTML='<div class="ws-g"><div class="ws-empty" role="status">Ищу…</div></div>';
+  }
+  return;
+ }
  var out='',n=0;window.__SEARCH.forEach(function(g){var ws=ql.split(/\s+/).filter(Boolean).map(stem),qs=ws[0];var m=g[1].filter(function(it){var t=it[0].toLowerCase();return ws.every(function(w){return t.indexOf(w)>-1;});});
   m.sort(function(a,b){var ia=a[0].toLowerCase().indexOf(qs),ib=b[0].toLowerCase().indexOf(qs);return (ia===0?0:1)-(ib===0?0:1)||ia-ib;});
   if(!m.length)return;n+=m.length;var lim=3;
@@ -1484,7 +1510,11 @@ function render(){var q=inp.value.trim(),ql=q.toLowerCase();res.hidden=false;
 inp.addEventListener('focus',function(){load();render();});
 inp.addEventListener('input',render);
 inp.addEventListener('keydown',function(e){if(e.key==='Escape'){W.classList.remove('is-search');}if(e.key==='Enter'){e.preventDefault();var a=res.querySelector('a.ws-it:not(.ws-shop)')||res.querySelector('a.ws-shop');if(a)a.click();}});
-res.addEventListener('click',function(e){var b=e.target.closest('.ws-pop button');if(b){inp.value=b.textContent;inp.focus();render();}});
+res.addEventListener('click',function(e){
+ if(e.target.closest('.ws-retry')){indexFailed=false;inp.focus();render();return;}
+ var b=e.target.closest('.ws-pop button');
+ if(b){inp.value=b.textContent;inp.focus();render();}
+});
 x.addEventListener('click',function(){if(inp.value){inp.value='';inp.focus();render();}else W.classList.remove('is-search');});
 })();
 </script>
