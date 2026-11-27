@@ -1,0 +1,30 @@
+.catalog-picks {
+  width: var(--head-w);
+  max-width: 100%;
+  margin: 72px auto 0;
+  color: var(--md-ink, var(--ink));
+}
+.catalog-picks-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 32px; }
+.catalog-picks h2 { margin: 0; font-size: 22px; line-height: 1.15; font-weight: 700; letter-spacing: -.02em; }
+.catalog-picks-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 20px; }
+.catalog-picks-grid > li { min-width: 0; }
+.catalog-pick { display: flex; height: 100%; flex-direction: column; color: inherit; text-decoration: none; }
+.catalog-pick-media { display: block; overflow: hidden; aspect-ratio: 1; background: #fff; border-radius: 4px; margin-bottom: 16px; }
+.catalog-pick-media img { display: block; width: 100%; height: 100%; object-fit: contain; transition: transform .2s ease; }
+.catalog-pick:hover img { transform: scale(1.04); }
+.catalog-pick-brand { margin-bottom: 4px; color: var(--muted); font-size: 14px; line-height: 1.4; }
+.catalog-pick-name { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; font-size: 16px; line-height: 1.4; margin-bottom: 12px; overflow-wrap: anywhere; }
+.catalog-pick:hover .catalog-pick-name { text-decoration: underline; text-underline-offset: 3px; }
+.catalog-pick-price { margin-top: auto; font-family: "Onest", sans-serif; font-size: 18px; line-height: 1.4; font-weight: 600; font-variant-numeric: normal; letter-spacing: normal; white-space: nowrap; }
+.catalog-picks-more { flex: none; margin-left: auto; color: var(--ink); text-decoration: underline; text-underline-offset: 4px; text-decoration-thickness: 1px; font-size: 14px; font-weight: 400; line-height: 1.4; white-space: nowrap; transition: color .2s; }
+.catalog-picks-more:hover { color: var(--muted); }
+@media (max-width: 760px) {
+  .catalog-picks { margin-top: 48px; }
+  .catalog-picks-head { gap: 12px; margin-bottom: 28px; }
+  .catalog-picks-grid { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: minmax(150px, 42%); gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 4px 4px 14px; margin: -4px -4px 0; scrollbar-width: thin; }
+  .catalog-picks-grid > li { scroll-snap-align: start; }
+  .catalog-pick-name { font-size: 15px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .catalog-pick-media img, .catalog-picks-more { transition: none; }
+}

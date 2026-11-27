@@ -1,0 +1,1686 @@
+{
+  "updatedAt": "2026-11-27T10:01:55.116206+00:00",
+  "source": "https://sunlight.net/catalog/",
+  "groups": {
+    "agate": {
+      "label": "Украшения с агатом",
+      "url": "https://sunlight.net/catalog/agat.html",
+      "products": [
+        {
+          "id": "399671",
+          "name": "Кольцо из серебра с агатом природным",
+          "brand": "BASTET",
+          "description": "Кольцо с 1 агатом зеленым природным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_399671.html",
+          "image": "../img/catalog/399671.jpg",
+          "price": 890,
+          "sourceImage": "https://g2.sunlight.net/media/products/6a43ef4b3af7cc08699382eed622fc3dd7c1dea3.jpg"
+        },
+        {
+          "id": "399677",
+          "name": "Подвеска из серебра с агатом природным",
+          "brand": "BASTET",
+          "description": "Подвеска с 1 агатом зеленым природным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_399677.html",
+          "image": "../img/catalog/399677.jpg",
+          "price": 469,
+          "sourceImage": "https://g9.sunlight.net/media/products/fed6a0b5725df38747e6bba01d38771e2fcb8e49.jpg"
+        },
+        {
+          "id": "399679",
+          "name": "Кольцо из серебра с агатом природным",
+          "brand": "BASTET",
+          "description": "Кольцо с 1 агатом зеленым природным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_399679.html",
+          "image": "../img/catalog/399679.jpg",
+          "price": 741,
+          "sourceImage": "https://g5.sunlight.net/media/products/4b4933ef5fcbed0a70b7b78120b11084510a4c78.jpg"
+        },
+        {
+          "id": "184854",
+          "name": "Подвеска из серебра с агатом природным и фианитами",
+          "brand": "BASTET",
+          "description": "Подвеска с 1 агатом зеленым природным; фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_184854.html",
+          "image": "../img/catalog/184854.jpg",
+          "price": 877,
+          "sourceImage": "https://g5.sunlight.net/media/products/9133a23f74bc069da91baee6cba77df5f9c4f305.jpg"
+        },
+        {
+          "id": "272056",
+          "name": "Кольцо из золота с агатом природным и фианитами",
+          "brand": "МЦЗ",
+          "description": "Кольцо с 1 агатом зеленым природным; фианитом бесцветным; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_272056.html",
+          "image": "../img/catalog/272056.jpg",
+          "price": 18361,
+          "sourceImage": "https://g2.sunlight.net/media/products/8daabcec313b0ada52f5688f79eac74116539041.jpg"
+        }
+      ]
+    },
+    "amber": {
+      "label": "Украшения с янтарём",
+      "url": "https://sunlight.net/catalog/ukrasheniya-iz-yantarya.html",
+      "products": [
+        {
+          "id": "342130",
+          "name": "Серьги из серебра с янтарями природными",
+          "brand": "SUNLIGHT",
+          "description": "Серьги с 2 янтарями зелеными природными; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_342130.html",
+          "image": "../img/catalog/342130.jpg",
+          "price": 2553,
+          "sourceImage": "https://g2.sunlight.net/media/products/121cec58-85b9-11ed-843f-0050568ccb93.jpg"
+        },
+        {
+          "id": "342129",
+          "name": "Серьги из серебра с янтарями природными",
+          "brand": "SUNLIGHT",
+          "description": "Серьги с 2 янтарями зелеными природными; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_342129.html",
+          "image": "../img/catalog/342129.jpg",
+          "price": 2489,
+          "sourceImage": "https://g9.sunlight.net/media/products/0bec3783-85b9-11ed-843f-0050568ccb93.jpg"
+        },
+        {
+          "id": "97618",
+          "name": "Браслет из серебра с янтарями природными",
+          "brand": "SUNLIGHT",
+          "description": "Браслет с 11 янтарями коричневыми природными; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/bracelets_97618.html",
+          "image": "../img/catalog/97618.jpg",
+          "price": 6112,
+          "sourceImage": "https://g6.sunlight.net/media/products/0c320353ad6a02061615195512c9d4934eabe55b.jpg"
+        },
+        {
+          "id": "342127",
+          "name": "Кольцо из серебра с янтарем природным",
+          "brand": "SUNLIGHT",
+          "description": "Кольцо с 1 янтарем зеленым природным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_342127.html",
+          "image": "../img/catalog/342127.jpg",
+          "price": 1790,
+          "sourceImage": "https://g7.sunlight.net/media/products/ff7a0210-85b8-11ed-843f-0050568ccb93.jpg"
+        },
+        {
+          "id": "342128",
+          "name": "Подвеска из серебра с янтарем природным",
+          "brand": "SUNLIGHT",
+          "description": "Подвеска с 1 янтарем зеленым природным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_342128.html",
+          "image": "../img/catalog/342128.jpg",
+          "price": 590,
+          "sourceImage": "https://g6.sunlight.net/media/products/17a8c64b-7d05-11ed-8433-0050568ccb93.jpg"
+        }
+      ]
+    },
+    "amethyst": {
+      "label": "Украшения с аметистами",
+      "url": "https://sunlight.net/catalog/amethyst.html",
+      "products": [
+        {
+          "id": "376894",
+          "name": "Подвеска из золота с бриллиантами , цитрином, хризолитом, топазом и аметистом природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Подвеска с 5 бриллиантами природными, 0.012 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 топазом свисс природным, 0.195 карат; 1 хризолитом природным, 0.155 карат; 1 аметистом природным, 0.14 карат; 1 цитрином природным, 0.135 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_338012.html",
+          "image": "../img/catalog/376894.jpg",
+          "price": 8990,
+          "sourceImage": "https://g4.sunlight.net/media/products/ec3b9dc1-719c-11ef-b518-005056bccafe.jpg"
+        },
+        {
+          "id": "399678",
+          "name": "Кольцо из серебра с аметистом природным",
+          "brand": "BASTET",
+          "description": "Кольцо с 1 аметистом природным, 0.456 карат; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_399678.html",
+          "image": "../img/catalog/399678.jpg",
+          "price": 990,
+          "sourceImage": "https://g4.sunlight.net/media/products/965902c38df20318e52ca2044ae8e5fdce3145f7.jpg"
+        },
+        {
+          "id": "379212",
+          "name": "Серьги из золота с бриллиантами , цитринами, хризолитами, топазами и аметистами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 10 бриллиантами природными, 0.026 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 топазами свисс природными, 0.36 карат; 2 хризолитами природными, 0.355 карат; 2 цитринами природными, 0.28 карат; 2 аметистами природными, 0.26 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_338011.html",
+          "image": "../img/catalog/379212.jpg",
+          "price": 21990,
+          "sourceImage": "https://g6.sunlight.net/media/products/0610f1c1c1ea65a227f1f11793a0ddf47222cbdd.jpg"
+        },
+        {
+          "id": "376893",
+          "name": "Кольцо из золота с бриллиантами, цитрином, хризолитом, топазом и аметистом природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 5 бриллиантами природными, 0.012 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 топазом свисс природным, 0.165 карат; 1 хризолитом природным, 0.165 карат; 1 цитрином природным, 0.15 карат; 1 аметистом природным, 0.13 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_338010.html",
+          "image": "../img/catalog/376893.jpg",
+          "price": 16990,
+          "sourceImage": "https://g8.sunlight.net/media/products/168d5f2d3f5c1b1cbd39c00c4c04cb855db63556.jpg"
+        },
+        {
+          "id": "402967",
+          "name": "Подвеска из серебра с аметистом природным и жемчугом",
+          "brand": "KRUGER STUDIOS",
+          "description": "Подвеска с 1 аметистом природным, 0.24 карат; жемчуг белый имитация; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_402967.html",
+          "image": "../img/catalog/402967.jpg",
+          "price": 790,
+          "sourceImage": "https://g1.sunlight.net/media/products/ff254290-e484-11f0-b6f4-005056bccafe.jpg"
+        }
+      ]
+    },
+    "aquamarine": {
+      "label": "Украшения с аквамарином",
+      "url": "https://sunlight.net/catalog/ukrasheniya-s-akvamarinom.html",
+      "products": [
+        {
+          "id": "410001",
+          "name": "Браслет из стали с аквамаринами, гематитами, топазами природными и жемчугом",
+          "brand": "BASTET",
+          "description": "Браслет, вставка: жемчуг пресноводный культивированный розовый; аквамарин; топаз бесцветный природный; гематит прессованый; Сталь; Сталь",
+          "url": "https://sunlight.net/catalog/bracelets_410001.html",
+          "image": "../img/catalog/410001.jpg",
+          "price": 2017,
+          "sourceImage": "https://g6.sunlight.net/media/products/5cf7707a-1925-11f1-b737-005056bccafe.jpg"
+        },
+        {
+          "id": "394038",
+          "name": "Кольцо из белого золота с бриллиантами природными и с аквамарином природным",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 24 бриллиантами природными, 0.044 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 аквамарином природным, 0.402 карат; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_394038.html",
+          "image": "../img/catalog/394038.jpg",
+          "price": 30825,
+          "sourceImage": "https://g0.sunlight.net/media/products/3456d7a3-8183-11f0-b676-005056bccafe.jpg"
+        },
+        {
+          "id": "394037",
+          "name": "Серьги из белого золота с бриллиантами и аквамаринами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 48 бриллиантами природными, 0.086 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 аквамаринами природными, 0.836 карат; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_394037.html",
+          "image": "../img/catalog/394037.jpg",
+          "price": 41337,
+          "sourceImage": "https://g3.sunlight.net/media/products/4f94ce19-831d-11f0-b678-005056bccafe.jpg"
+        },
+        {
+          "id": "394040",
+          "name": "Подвеска из белого золота с бриллиантами и аквамарином природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Подвеска с 24 бриллиантами природными, 0.043 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 аквамарином природным, 0.393 карат; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_394040.html",
+          "image": "../img/catalog/394040.jpg",
+          "price": 20632,
+          "sourceImage": "https://g3.sunlight.net/media/products/55fea758-831d-11f0-b678-005056bccafe.jpg"
+        },
+        {
+          "id": "400000",
+          "name": "Серьги из белого золота с бриллиантами и аквамаринами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 50 бриллиантами природными, 0.11 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 аквамаринами природными, 1.313 карат; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_400000.html",
+          "image": "../img/catalog/400000.jpg",
+          "price": 33594,
+          "sourceImage": "https://g0.sunlight.net/media/products/cdb41a81-c5db-11f0-b6cd-005056bccafe.jpg"
+        }
+      ]
+    },
+    "bracelets": {
+      "label": "Браслеты",
+      "url": "https://sunlight.net/catalog/bracelets.html",
+      "products": [
+        {
+          "id": "270808",
+          "name": "Браслет из серебра",
+          "brand": "МЦЗ",
+          "description": "Браслет Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/bracelets_270808.html",
+          "image": "../img/catalog/270808.jpg",
+          "price": 856,
+          "sourceImage": "https://g0.sunlight.net/media/products/10a61f801201912415962f280e7f924ad5e50d0c.jpg"
+        },
+        {
+          "id": "84353",
+          "name": "Браслет из золота",
+          "brand": "МЦЗ",
+          "description": "Браслет Розовое золото 585 пробы. УКРАШЕНИЕ ОБЛЕГЧЕННОЕ. ТРЕБУЕТ БЕРЕЖНОГО ОБРАЩЕНИЯ. Украшение произведено по итальянской технологии изготовления облегченных (пустотелых) ювелирных изделий. Оно требует аккуратного и бережного обращения. Снимайте украшение, когда выполняете работу по дому, занимаетесь спортом, принимаете душ или ванну, посещаете сауну, бассейн, а также перед сном. Избегайте жестких касаний ювелирного изделия с твёрдыми поверхностями и предметами.",
+          "url": "https://sunlight.net/catalog/bracelets_84353.html",
+          "image": "../img/catalog/84353.jpg",
+          "price": 8465,
+          "sourceImage": "https://g2.sunlight.net/media/products/76ead98005cc4504b7d315c65a8b21ab587eed9a.jpg"
+        },
+        {
+          "id": "77602",
+          "name": "Браслет из серебра",
+          "brand": "BASTET",
+          "description": "Браслет Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/bracelets_77602.html",
+          "image": "../img/catalog/77602.jpg",
+          "price": 3190,
+          "sourceImage": "https://g8.sunlight.net/media/products/28e1173bbef43f802fff64d16168f2d0761edae2.jpg"
+        },
+        {
+          "id": "238528",
+          "name": "Браслет из белого золота с бриллиантами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Браслет с 28 бриллиантами природными, 0.37 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/bracelets_238528.html",
+          "image": "../img/catalog/238528.jpg",
+          "price": 119993,
+          "sourceImage": "https://g1.sunlight.net/media/products/2d70cfdfbf0943761e93a1034de3227ada982fda.jpg"
+        },
+        {
+          "id": "80614",
+          "name": "Браслет из серебра",
+          "brand": "МЦЗ",
+          "description": "Браслет Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/bracelets_80614.html",
+          "image": "../img/catalog/80614.jpg",
+          "price": 464,
+          "sourceImage": "https://g7.sunlight.net/media/products/4bbaab10322e38b76ca61070fdb4536bd88a8843.jpg"
+        }
+      ]
+    },
+    "brooches": {
+      "label": "Броши",
+      "url": "https://sunlight.net/catalog/brooch.html",
+      "products": [
+        {
+          "id": "145129",
+          "name": "Брошь из серебра с янтарями природными",
+          "brand": "SUNLIGHT",
+          "description": "Брошь с 13 янтарями микс; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/brooch_145129.html",
+          "image": "../img/catalog/145129.jpg",
+          "price": 3990,
+          "sourceImage": "https://g9.sunlight.net/media/products/a00e9c087c5eaa5b94fc17c95b6697b3e6cf3439.jpg"
+        },
+        {
+          "id": "152759",
+          "name": "Брошь из золота с фианитами",
+          "brand": "МЦЗ",
+          "description": "Брошь, вставка: фианитом бесцветным; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/brooch_152759.html",
+          "image": "../img/catalog/152759.jpg",
+          "price": 6073,
+          "sourceImage": "https://g8.sunlight.net/media/products/e780ebe9b910b50f809f13edc8b4dcf81db08cc1.jpg"
+        },
+        {
+          "id": "74378",
+          "name": "Брошь из серебра с янтарем природным",
+          "brand": "SUNLIGHT",
+          "description": "Брошь с 1 янтарем красным природным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/brooch_74378.html",
+          "image": "../img/catalog/74378.jpg",
+          "price": 2990,
+          "sourceImage": "https://g3.sunlight.net/media/products/06b4e504e0c6ae6a70223683c779751fbff759bc.jpg"
+        },
+        {
+          "id": "35794",
+          "name": "Брошь из серебра с жемчугом",
+          "brand": "BASTET",
+          "description": "Брошь, вставка: жемчуг пресноводный культивированный белый; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/brooch_35794.html",
+          "image": "../img/catalog/35794.jpg",
+          "price": 3490,
+          "sourceImage": "https://g0.sunlight.net/media/products/f1e72050f0890c19bf7a3a36f61e6c1af5e0041d.jpg"
+        },
+        {
+          "id": "317981",
+          "name": "Брошь из серебра",
+          "brand": "BASTET",
+          "description": "Брошь Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/brooch_317981.html",
+          "image": "../img/catalog/317981.jpg",
+          "price": 731,
+          "sourceImage": "https://g9.sunlight.net/media/products/5f86a562-c534-11ec-8340-005056b30bd2.jpg"
+        }
+      ]
+    },
+    "chains": {
+      "label": "Цепи",
+      "url": "https://sunlight.net/catalog/chains.html",
+      "products": [
+        {
+          "id": "303047",
+          "name": "Цепь из золота",
+          "brand": "МЦЗ",
+          "description": "Цепь Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/chains_303047.html",
+          "image": "../img/catalog/303047.jpg",
+          "price": 42450,
+          "sourceImage": "https://g6.sunlight.net/media/products/a12d315eb8de9720f438d1a1830cff688ec801d5.jpg"
+        },
+        {
+          "id": "285836",
+          "name": "Цепь из золота",
+          "brand": "МЦЗ",
+          "description": "Цепь Розовое золото 585 пробы. УКРАШЕНИЕ ОБЛЕГЧЕННОЕ. ТРЕБУЕТ БЕРЕЖНОГО ОБРАЩЕНИЯ. Украшение произведено по итальянской технологии изготовления облегченных (пустотелых) ювелирных изделий. Оно требует аккуратного и бережного обращения. Снимайте украшение, когда выполняете работу по дому, занимаетесь спортом, принимаете душ или ванну, посещаете сауну, бассейн, а также перед сном. Избегайте жестких касаний ювелирного изделия с твёрдыми поверхностями и предметами.",
+          "url": "https://sunlight.net/catalog/chains_285836.html",
+          "image": "../img/catalog/285836.jpg",
+          "price": 9084,
+          "sourceImage": "https://g9.sunlight.net/media/products/878e9ed6c6afc3fe30cd3ff1796d406b35a6579b.jpg"
+        },
+        {
+          "id": "92469",
+          "name": "Цепь из золота",
+          "brand": "МЦЗ",
+          "description": "Цепь Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/chains_92469.html",
+          "image": "../img/catalog/92469.jpg",
+          "price": 26404,
+          "sourceImage": "https://g3.sunlight.net/media/products/efcf2e6c8996a834099c830e7598657eca3daa9e.jpg"
+        },
+        {
+          "id": "439145",
+          "name": "Цепь из золота",
+          "brand": "МЦЗ",
+          "description": "Цепь Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/chains_439145.html",
+          "image": "../img/catalog/439145.jpg",
+          "price": 10867,
+          "sourceImage": "https://g2.sunlight.net/media/products/dc9c1ad4-c08d-11f1-b80c-005056bccafe.jpg"
+        },
+        {
+          "id": "439136",
+          "name": "Цепь из золота",
+          "brand": "МЦЗ",
+          "description": "Цепь Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/chains_439136.html",
+          "image": "../img/catalog/439136.jpg",
+          "price": 9191,
+          "sourceImage": "https://g5.sunlight.net/media/products/eb35d883-c08e-11f1-b80c-005056bccafe.jpg"
+        }
+      ]
+    },
+    "citrine": {
+      "label": "Украшения с цитрином",
+      "url": "https://sunlight.net/catalog/ukrasheniya-s-citrinom.html",
+      "products": [
+        {
+          "id": "376894",
+          "name": "Подвеска из золота с бриллиантами , цитрином, хризолитом, топазом и аметистом природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Подвеска с 5 бриллиантами природными, 0.012 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 топазом свисс природным, 0.195 карат; 1 хризолитом природным, 0.155 карат; 1 аметистом природным, 0.14 карат; 1 цитрином природным, 0.135 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_338012.html",
+          "image": "../img/catalog/376894.jpg",
+          "price": 8990,
+          "sourceImage": "https://g4.sunlight.net/media/products/ec3b9dc1-719c-11ef-b518-005056bccafe.jpg"
+        },
+        {
+          "id": "983668",
+          "name": "Подвеска из золота с бриллиантами и цитрином природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Подвеска с 5 бриллиантами природными, 0.011 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 цитрином природным, 0.596 карат; Желтое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_983668.html",
+          "image": "../img/catalog/983668.jpg",
+          "price": 6990,
+          "sourceImage": "https://g3.sunlight.net/media/products/9d00344170cd6e8e9a7b19ddb00ec2a0aceb2346.jpg"
+        },
+        {
+          "id": "983732",
+          "name": "Серьги из золота с бриллиантами и цитринами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 14 бриллиантами природными, 0.035 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 цитринами природными, 1.208 карат; Желтое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_983732.html",
+          "image": "../img/catalog/983732.jpg",
+          "price": 22990,
+          "sourceImage": "https://g7.sunlight.net/media/products/a276fa3a7f20cff749bf2f89d7bbb79b17df72ab.jpg"
+        },
+        {
+          "id": "379212",
+          "name": "Серьги из золота с бриллиантами , цитринами, хризолитами, топазами и аметистами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 10 бриллиантами природными, 0.026 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 топазами свисс природными, 0.36 карат; 2 хризолитами природными, 0.355 карат; 2 цитринами природными, 0.28 карат; 2 аметистами природными, 0.26 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_338011.html",
+          "image": "../img/catalog/379212.jpg",
+          "price": 21990,
+          "sourceImage": "https://g6.sunlight.net/media/products/0610f1c1c1ea65a227f1f11793a0ddf47222cbdd.jpg"
+        },
+        {
+          "id": "376893",
+          "name": "Кольцо из золота с бриллиантами, цитрином, хризолитом, топазом и аметистом природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 5 бриллиантами природными, 0.012 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 топазом свисс природным, 0.165 карат; 1 хризолитом природным, 0.165 карат; 1 цитрином природным, 0.15 карат; 1 аметистом природным, 0.13 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_338010.html",
+          "image": "../img/catalog/376893.jpg",
+          "price": 16990,
+          "sourceImage": "https://g8.sunlight.net/media/products/168d5f2d3f5c1b1cbd39c00c4c04cb855db63556.jpg"
+        }
+      ]
+    },
+    "diamonds": {
+      "label": "Украшения с бриллиантами",
+      "url": "https://sunlight.net/catalog/diamonds-all.html",
+      "products": [
+        {
+          "id": "315518",
+          "name": "Кольцо из золота с бриллиантами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 11 бриллиантами природными, 0.074 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_315518.html",
+          "image": "../img/catalog/315518.jpg",
+          "price": 23990,
+          "sourceImage": "https://g0.sunlight.net/media/products/025f024d338d14bd147fc298b2c89e1e65937f8d.jpg"
+        },
+        {
+          "id": "281087",
+          "name": "Кольцо из золота с бриллиантами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 119 бриллиантами природными, 0.211 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 32 бриллиантами коньячными природными, 0.426 карат, огранка круг 57 граней, цвет 7, чистота 5, тип огранки А; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_281087.html",
+          "image": "../img/catalog/281087.jpg",
+          "price": 153593,
+          "sourceImage": "https://g6.sunlight.net/media/products/2b3f3b22257024547fa42e6443d3038f2cc3a726.jpg"
+        },
+        {
+          "id": "368644",
+          "name": "Серьги из золота с бриллиантами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 18 бриллиантами природными, 0.062 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_368644.html",
+          "image": "../img/catalog/368644.jpg",
+          "price": 25593,
+          "sourceImage": "https://g1.sunlight.net/media/products/2b81accb-2e2f-11ef-b4c2-005056bccafe.jpg"
+        },
+        {
+          "id": "165495",
+          "name": "Кольцо из золота с бриллиантами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 21 бриллиантом природным, 0.039 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки Б; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_165495.html",
+          "image": "../img/catalog/165495.jpg",
+          "price": 7990,
+          "sourceImage": "https://g9.sunlight.net/media/products/aa8fbedd84d8a9cab9076ba88d35630c60736063.jpg"
+        },
+        {
+          "id": "334344",
+          "name": "Серьги из белого золота с бриллиантами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 10 бриллиантами природными, 0.377 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_334344.html",
+          "image": "../img/catalog/334344.jpg",
+          "price": 75993,
+          "sourceImage": "https://g0.sunlight.net/media/products/bfe81e54-0c0c-11ed-839c-005056b30bd2.jpg"
+        }
+      ]
+    },
+    "earrings": {
+      "label": "Серьги",
+      "url": "https://sunlight.net/catalog/earrings.html",
+      "products": [
+        {
+          "id": "69748",
+          "name": "Серьги из золота с фианитами",
+          "brand": "МЦЗ",
+          "description": "Серьги, вставка: фианитом бесцветным; Розовое золото 375 пробы.",
+          "url": "https://sunlight.net/catalog/earring_69748.html",
+          "image": "../img/catalog/69748.jpg",
+          "price": 5990,
+          "sourceImage": "https://g8.sunlight.net/media/products/d9ef9fdf6440bfc424ad353693841ee3c51d2d2e.jpg"
+        },
+        {
+          "id": "51697",
+          "name": "Серьги из золота с фианитами",
+          "brand": "МЦЗ",
+          "description": "Серьги, вставка: фианитом бесцветным; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_51697.html",
+          "image": "../img/catalog/51697.jpg",
+          "price": 23377,
+          "sourceImage": "https://g4.sunlight.net/media/products/5deba575f10648dae6e448303d1f446dce01c535.jpg"
+        },
+        {
+          "id": "49863",
+          "name": "Серьги из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Серьги, вставка: фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_49863.html",
+          "image": "../img/catalog/49863.jpg",
+          "price": 1390,
+          "sourceImage": "https://g6.sunlight.net/media/products/c3262f0a922e0d12c0fc375f3225bc63c3a00ef7.jpg"
+        },
+        {
+          "id": "313176",
+          "name": "Серьги из серебра",
+          "brand": "KRUGER STUDIOS",
+          "description": "Серьги Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_313176.html",
+          "image": "../img/catalog/313176.jpg",
+          "price": 2261,
+          "sourceImage": "https://g1.sunlight.net/media/products/4c7ce4c795d3770fa7d8eb425ae01b4d3a7bca48.jpg"
+        },
+        {
+          "id": "370169",
+          "name": "Серьги из белого золота Cold Diamonds",
+          "brand": "Cold Diamonds",
+          "description": "Серьги с 2 алмазами огранёнными синтетическими, 0.162 грамм; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_370169.html",
+          "image": "../img/catalog/370169.jpg",
+          "price": 36202,
+          "sourceImage": "https://g4.sunlight.net/media/products/707bd495-695e-11ef-b50d-005056bccafe.jpg"
+        }
+      ]
+    },
+    "emerald": {
+      "label": "Украшения с изумрудами",
+      "url": "https://sunlight.net/catalog/emeralds.html",
+      "products": [
+        {
+          "id": "313245",
+          "name": "Кольцо из золота с бриллиантами природными и изумрудами облагороженными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 12 бриллиантами природными, 0.043 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 47 бриллиантами природными, 0.136 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 изумрудами природными облагороженными, 0.016 карат, цвет 5, чистота 3, тип огранки В; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_313245.html",
+          "image": "../img/catalog/313245.jpg",
+          "price": 42042,
+          "sourceImage": "https://g6.sunlight.net/media/products/f9105e4e66a57556fc6d9bb3a62336fd3913de07.jpg"
+        },
+        {
+          "id": "313246",
+          "name": "Серьги из золота с бриллиантами природными и изумрудами облагороженными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 56 бриллиантами природными, 0.206 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 98 бриллиантами природными, 0.288 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 4 изумрудами природными облагороженными, 0.032 карат, цвет 5, чистота 3, тип огранки В; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_313246.html",
+          "image": "../img/catalog/313246.jpg",
+          "price": 81993,
+          "sourceImage": "https://g1.sunlight.net/media/products/5a219fc9-71d4-11ec-82d4-005056b30bd2.jpg"
+        },
+        {
+          "id": "313247",
+          "name": "Подвеска из золота с бриллиантами природными и изумрудами облагороженными",
+          "brand": "Академия Бриллиантов",
+          "description": "Подвеска с 58 бриллиантами природными, 0.17 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 изумрудами природными облагороженными, 0.015 карат, цвет 5, чистота 3, тип огранки В; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_313247.html",
+          "image": "../img/catalog/313247.jpg",
+          "price": 29993,
+          "sourceImage": "https://g6.sunlight.net/media/products/01513b00b940357eacf6f6fab32eacdeb5dd3e02.jpg"
+        },
+        {
+          "id": "327294",
+          "name": "Браслет из золота с бриллиантами природными и изумрудами облагороженными",
+          "brand": "Академия Бриллиантов",
+          "description": "Браслет с 8 бриллиантами природными, 0.034 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки Б; 3 изумрудами облагороженными, 0.121 карат, цвет 3, чистота 3, тип огранки В; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/bracelets_327294.html",
+          "image": "../img/catalog/327294.jpg",
+          "price": 59993,
+          "sourceImage": "https://g7.sunlight.net/media/products/732cb8ea586b2a98eeea96d91324d7ea6a4913ac.jpg"
+        },
+        {
+          "id": "58795",
+          "name": "Кольцо из золота с бриллиантами природными и изумрудами облагороженными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 8 бриллиантами природными, 0.017 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки Б; 3 изумрудами облагороженными, 0.052 карат, цвет 3, чистота 3, тип огранки В; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_58795.html",
+          "image": "../img/catalog/58795.jpg",
+          "price": 12990,
+          "sourceImage": "https://g1.sunlight.net/media/products/25984dd54065c300c706041e2bc173d0287e995d.jpg"
+        }
+      ]
+    },
+    "garnet": {
+      "label": "Украшения с гранатом",
+      "url": "https://sunlight.net/catalog/garnet.html",
+      "products": [
+        {
+          "id": "108798",
+          "name": "Серьги из золота с бриллиантами и гранатами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 6 бриллиантами природными, 0.052 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 2 гранатами природными, 0.993 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_108798.html",
+          "image": "../img/catalog/108798.jpg",
+          "price": 24990,
+          "sourceImage": "https://g0.sunlight.net/media/products/dd02bade9015147061944d5dcdbff507a21ecb5c.jpg"
+        },
+        {
+          "id": "407854",
+          "name": "Кольцо из золота с бриллиантами природными и с гранатом природным",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 3 бриллиантами природными, 0.025 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 1 гранатом природным, 0.461 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_407854.html",
+          "image": "../img/catalog/407854.jpg",
+          "price": 12990,
+          "sourceImage": "https://g0.sunlight.net/media/products/7b31323f17d0c1f0a7b41b3ee2015857f0152ddf.jpg"
+        },
+        {
+          "id": "399672",
+          "name": "Кольцо из серебра с гранатом природным",
+          "brand": "BASTET",
+          "description": "Кольцо с 1 гранатом природным, 0.137 карат; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_399672.html",
+          "image": "../img/catalog/399672.jpg",
+          "price": 1072,
+          "sourceImage": "https://g9.sunlight.net/media/products/5e288a9fc81c2f906d8b88e35902a8b9a2724d2d.jpg"
+        },
+        {
+          "id": "984679",
+          "name": "Серьги из серебра с гранатами природными",
+          "brand": "BASTET",
+          "description": "Серьги с 2 гранатами природными, 1.6 карат; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_984679.html",
+          "image": "../img/catalog/984679.jpg",
+          "price": 2313,
+          "sourceImage": "https://g3.sunlight.net/media/products/8ed5bc12-a2ea-11ee-b47e-005056bccafe.jpg"
+        },
+        {
+          "id": "996206",
+          "name": "Кольцо из серебра с гранатом природным и фианитами",
+          "brand": "SUNLIGHT",
+          "description": "Кольцо с 1 гранатом природным, 0.065 карат; фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_996206.html",
+          "image": "../img/catalog/996206.jpg",
+          "price": 1394,
+          "sourceImage": "https://g8.sunlight.net/media/products/7b55a104-cfba-11ee-b47e-005056bccafe.jpg"
+        }
+      ]
+    },
+    "gold": {
+      "label": "Украшения из золота",
+      "url": "https://sunlight.net/catalog/zolotye-ukrashenija.html",
+      "products": [
+        {
+          "id": "347721",
+          "name": "Серьги из золота с фианитами",
+          "brand": "МЦЗ",
+          "description": "Серьги, вставка: фианитом бесцветным; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_347721.html",
+          "image": "../img/catalog/347721.jpg",
+          "price": 10990,
+          "sourceImage": "https://g6.sunlight.net/media/products/2b712aeaae69d9401d0cd6540c9c3b2e9cfb5cec.jpg"
+        },
+        {
+          "id": "46751",
+          "name": "Кольцо из золота с фианитами",
+          "brand": "МЦЗ",
+          "description": "Кольцо, вставка: фианитом бесцветным; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_46751.html",
+          "image": "../img/catalog/46751.jpg",
+          "price": 12990,
+          "sourceImage": "https://g0.sunlight.net/media/products/5597c4bbea54db79215307d10a52fb972c3f4968.jpg"
+        },
+        {
+          "id": "341135",
+          "name": "Серьги из золота с фианитами",
+          "brand": "МЦЗ",
+          "description": "Серьги, вставка: фианитом бесцветным; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_341135.html",
+          "image": "../img/catalog/341135.jpg",
+          "price": 76353,
+          "sourceImage": "https://g6.sunlight.net/media/products/6bb767217c49060e2f5653813a4fc9f935ddeddb.jpg"
+        },
+        {
+          "id": "341134",
+          "name": "Кольцо из золота с фианитами",
+          "brand": "МЦЗ",
+          "description": "Кольцо, вставка: фианитом бесцветным; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_341134.html",
+          "image": "../img/catalog/341134.jpg",
+          "price": 48921,
+          "sourceImage": "https://g8.sunlight.net/media/products/bfef052c987b7c6227c668946539917a87fce3f8.jpg"
+        },
+        {
+          "id": "130996",
+          "name": "Серьги из золота с топазами природными и фианитами",
+          "brand": "МЦЗ",
+          "description": "Серьги с 2 топазами скай, 0.92 карат, тип огранки В; фианит; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_130996.html",
+          "image": "../img/catalog/130996.jpg",
+          "price": 18990,
+          "sourceImage": "https://g1.sunlight.net/media/products/9cea297749f3c23155184e6076251da06578ab47.jpg"
+        }
+      ]
+    },
+    "jewelry": {
+      "label": "Украшения",
+      "url": "https://sunlight.net/catalog/",
+      "products": [
+        {
+          "id": "69748",
+          "name": "Серьги из золота с фианитами",
+          "brand": "МЦЗ",
+          "description": "Серьги, вставка: фианитом бесцветным; Розовое золото 375 пробы.",
+          "url": "https://sunlight.net/catalog/earring_69748.html",
+          "image": "../img/catalog/69748.jpg",
+          "price": 5990,
+          "sourceImage": "https://g8.sunlight.net/media/products/d9ef9fdf6440bfc424ad353693841ee3c51d2d2e.jpg"
+        },
+        {
+          "id": "101575",
+          "name": "Кольцо из золота с фианитами",
+          "brand": "МЦЗ",
+          "description": "Кольцо, вставка: фианитом бесцветным; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_101575.html",
+          "image": "../img/catalog/101575.jpg",
+          "price": 12490,
+          "sourceImage": "https://g0.sunlight.net/media/products/f4773342479a0fabf50c94079eced3b0ce6571ac.jpg"
+        },
+        {
+          "id": "413074",
+          "name": "Серьги из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Серьги, вставка: фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_248565.html",
+          "image": "../img/catalog/413074.jpg",
+          "price": 4153,
+          "sourceImage": "https://g2.sunlight.net/media/products/a3c52afd-38a8-11f1-b75f-005056bccafe.jpg"
+        },
+        {
+          "id": "413045",
+          "name": "Колье из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Шейное укр., вставка: фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/neck_decoration_304720.html",
+          "image": "../img/catalog/413045.jpg",
+          "price": 4793,
+          "sourceImage": "https://g7.sunlight.net/media/products/2ba8e8e5-38a6-11f1-b75f-005056bccafe.jpg"
+        },
+        {
+          "id": "413050",
+          "name": "Серьги из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Серьги, вставка: фианит розовый; фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_349588.html",
+          "image": "../img/catalog/413050.jpg",
+          "price": 3779,
+          "sourceImage": "https://g1.sunlight.net/media/products/82a053f3-38a6-11f1-b75f-005056bccafe.jpg"
+        }
+      ]
+    },
+    "necklaces": {
+      "label": "Колье",
+      "url": "https://sunlight.net/catalog/necklace.html",
+      "products": [
+        {
+          "id": "330674",
+          "name": "Колье из золота",
+          "brand": "МЦЗ",
+          "description": "Шейное укр. Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/neck_decoration_330674.html",
+          "image": "../img/catalog/330674.jpg",
+          "price": 34380,
+          "sourceImage": "https://g1.sunlight.net/media/products/7f6f4a058583a749880405fa32367b6474ccaa16.jpg"
+        },
+        {
+          "id": "408647",
+          "name": "Колье из серебра",
+          "brand": "МЦЗ",
+          "description": "Шейное укр. Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/neck_decoration_408647.html",
+          "image": "../img/catalog/408647.jpg",
+          "price": 1653,
+          "sourceImage": "https://g2.sunlight.net/media/products/88e1173a-c492-11f0-b6cb-005056bccafe.jpg"
+        },
+        {
+          "id": "233385",
+          "name": "Колье из серебра с перламутрами природными",
+          "brand": "BASTET",
+          "description": "Шейное укр., вставка: перламутр белый; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/neck_decoration_233385.html",
+          "image": "../img/catalog/233385.jpg",
+          "price": 2490,
+          "sourceImage": "https://g0.sunlight.net/media/products/61c6ea2cd8b49d5346293c16773f2fb83a9387de.jpg"
+        },
+        {
+          "id": "332155",
+          "name": "Колье из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Шейное укр., вставка: фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/neck_decoration_332155.html",
+          "image": "../img/catalog/332155.jpg",
+          "price": 1990,
+          "sourceImage": "https://g0.sunlight.net/media/products/50e7f4b00fc6dd95397d4e6aa9f22e8f41215856.jpg"
+        },
+        {
+          "id": "379076",
+          "name": "Колье из серебра Cold Diamonds",
+          "brand": "Cold Diamonds",
+          "description": "Шейное укр. с 1 алмазом огранённым синтетическим, 0.052 грамм; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/neck_decoration_379076.html",
+          "image": "../img/catalog/379076.jpg",
+          "price": 7673,
+          "sourceImage": "https://g0.sunlight.net/media/products/cf9566e95e321f88eabe9ef10123d464febf71f9.jpg"
+        }
+      ]
+    },
+    "okami": {
+      "label": "Часы OKAMI",
+      "url": "https://sunlight.net/catalog/okami.html",
+      "products": [
+        {
+          "id": "334269",
+          "name": "Часы OKAMI мужские",
+          "brand": "OKAMI",
+          "description": "Часы ГОСТ 26272-98; японский кварц. мех.; корпус сталь; минеральное стекло Сталь",
+          "url": "https://sunlight.net/catalog/clock_334269.html",
+          "image": "../img/catalog/334269.jpg",
+          "price": 8990,
+          "sourceImage": "https://g7.sunlight.net/media/products/f0b33965e136db771ef63fb260cae3a81dead1d8.jpg"
+        },
+        {
+          "id": "336991",
+          "name": "Часы OKAMI мужские",
+          "brand": "OKAMI",
+          "description": "Часы ГОСТ 26272-98; японский кварц. мех.; корпус сталь; минеральное стекло Сталь",
+          "url": "https://sunlight.net/catalog/clock_336991.html",
+          "image": "../img/catalog/336991.jpg",
+          "price": 9990,
+          "sourceImage": "https://g1.sunlight.net/media/products/68617743ec2fc9fb3dd463f265eeb6981e2efb15.jpg"
+        },
+        {
+          "id": "334305",
+          "name": "Часы OKAMI женские",
+          "brand": "OKAMI",
+          "description": "Часы ГОСТ 26272-98; японский кварц. мех.; корпус сталь; минеральное стекло Сталь",
+          "url": "https://sunlight.net/catalog/clock_334305.html",
+          "image": "../img/catalog/334305.jpg",
+          "price": 8992,
+          "sourceImage": "https://g9.sunlight.net/media/products/25eae482b92d43087438487b0a365643ed424c7f.jpg"
+        },
+        {
+          "id": "345069",
+          "name": "Часы OKAMI мужские",
+          "brand": "OKAMI",
+          "description": "Часы ГОСТ 26272-98; японский кварц. мех.; корпус сталь; минеральное стекло Сталь",
+          "url": "https://sunlight.net/catalog/clock_345069.html",
+          "image": "../img/catalog/345069.jpg",
+          "price": 12997,
+          "sourceImage": "https://g4.sunlight.net/media/products/45b1a65602f04519e4864d447889766769f0e0ae.jpg"
+        },
+        {
+          "id": "334300",
+          "name": "Часы OKAMI женские",
+          "brand": "OKAMI",
+          "description": "Часы ГОСТ 26272-98; японский кварц. мех.; корпус сталь; минеральное стекло Сталь",
+          "url": "https://sunlight.net/catalog/clock_334300.html",
+          "image": "../img/catalog/334300.jpg",
+          "price": 5392,
+          "sourceImage": "https://g0.sunlight.net/media/products/bec0d512-2dd2-11ed-83ce-0050568ccb93.jpg"
+        }
+      ]
+    },
+    "onyx": {
+      "label": "Украшения с ониксом",
+      "url": "https://sunlight.net/catalog/onyx.html",
+      "products": [
+        {
+          "id": "390458",
+          "name": "Серьги из золота с ониксами черными природными",
+          "brand": "МЦЗ",
+          "description": "Серьги с 2 ониксами черными природными, огранка четырехлистник; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_993989.html",
+          "image": "../img/catalog/390458.jpg",
+          "price": 15990,
+          "sourceImage": "https://g9.sunlight.net/media/products/68e4ba5f68713821ddd7c7092c11ecd090821da2.jpg"
+        },
+        {
+          "id": "423985",
+          "name": "Серьги из золота с ониксами природными",
+          "brand": "МЦЗ",
+          "description": "Серьги с 2 ониксами черными природными, огранка четырехлистник; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_423985.html",
+          "image": "../img/catalog/423985.jpg",
+          "price": 30447,
+          "sourceImage": "https://g0.sunlight.net/media/products/d82bc089-b64e-11f1-94ad-005056bc8f3d.jpg"
+        },
+        {
+          "id": "310220",
+          "name": "Кольцо из золота с бриллиантами и ониксом черным природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 56 бриллиантами чёрными облагороженными, 0.131 карат, огранка круг 57 граней, цвет 7, чистота 6, тип огранки А; 1 ониксом черным природным, огранка круг чекер; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_310220.html",
+          "image": "../img/catalog/310220.jpg",
+          "price": 34990,
+          "sourceImage": "https://g9.sunlight.net/media/products/bcce3c97e6664ffaecc0d81eff2cd0820cdc74de.jpg"
+        },
+        {
+          "id": "389408",
+          "name": "Подвеска из золота с ониксом природным",
+          "brand": "МЦЗ",
+          "description": "Подвеска с 1 ониксом черным природным, огранка четырехлистник; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_993993.html",
+          "image": "../img/catalog/389408.jpg",
+          "price": 8990,
+          "sourceImage": "https://g9.sunlight.net/media/products/8db1059f-a5a4-11f0-b6a4-005056bccafe.jpg"
+        },
+        {
+          "id": "400587",
+          "name": "Серьги из золота с бриллиантами и ониксами черными природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 48 бриллиантами природными, 0.186 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 ониксами черными природными; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_400587.html",
+          "image": "../img/catalog/400587.jpg",
+          "price": 45990,
+          "sourceImage": "https://g3.sunlight.net/media/products/1015ef88de64883750b29c8e1940e6ca7e6e4c9c.jpg"
+        }
+      ]
+    },
+    "pearl": {
+      "label": "Украшения с жемчугом",
+      "url": "https://sunlight.net/catalog/?stone=3864",
+      "products": [
+        {
+          "id": "990292",
+          "name": "Серебряные серьги с жемчугом",
+          "brand": "BASTET",
+          "description": "Серьги с 2 жемчугами пресноводными культ.белыми; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_990292.html",
+          "image": "../img/catalog/990292.jpg",
+          "price": 890,
+          "sourceImage": "https://g0.sunlight.net/media/products/f56f45bb-61dc-11ee-b47c-005056bccafe.jpg"
+        },
+        {
+          "id": "41283",
+          "name": "Серьги из серебра с фианитами и жемчугом",
+          "brand": "BASTET",
+          "description": "Серьги с фианитом бесцветным; 2 жемчугами пресноводными культ.белыми; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_41283.html",
+          "image": "../img/catalog/41283.jpg",
+          "price": 3990,
+          "sourceImage": "https://g9.sunlight.net/media/products/29643dd81c9094b0b95795eb26fb620baab71f7e.jpg"
+        },
+        {
+          "id": "348384",
+          "name": "Подвеска из золота с жемчугом",
+          "brand": "МЦЗ",
+          "description": "Подвеска с 1 жемчугом пресноводным культивированным белым; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_348384.html",
+          "image": "../img/catalog/348384.jpg",
+          "price": 2990,
+          "sourceImage": "https://g2.sunlight.net/media/products/7c69e93aeb6eff673c6adad33708c571b8ba7002.jpg"
+        },
+        {
+          "id": "41371",
+          "name": "Серебряное кольцо с жемчугом и фианитами",
+          "brand": "BASTET",
+          "description": "Кольцо, вставка: фианитом бесцветным; жемчуг пресноводный культивированный белый; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_41371.html",
+          "image": "../img/catalog/41371.jpg",
+          "price": 2790,
+          "sourceImage": "https://g9.sunlight.net/media/products/a393cbff18ceb07c6729c350596df80394ddf479.jpg"
+        },
+        {
+          "id": "35794",
+          "name": "Брошь из серебра с жемчугом",
+          "brand": "BASTET",
+          "description": "Брошь, вставка: жемчуг пресноводный культивированный белый; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/brooch_35794.html",
+          "image": "../img/catalog/35794.jpg",
+          "price": 3490,
+          "sourceImage": "https://g0.sunlight.net/media/products/f1e72050f0890c19bf7a3a36f61e6c1af5e0041d.jpg"
+        }
+      ]
+    },
+    "pendants": {
+      "label": "Подвески",
+      "url": "https://sunlight.net/catalog/pendants.html",
+      "products": [
+        {
+          "id": "328484",
+          "name": "Подвеска из золота с наноситалом",
+          "brand": "МЦЗ",
+          "description": "Подвеска с 1 наноситалом морганитовым; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_328484.html",
+          "image": "../img/catalog/328484.jpg",
+          "price": 3469,
+          "sourceImage": "https://g3.sunlight.net/media/products/872e41e951a77bc9fbc01438f89f58ffd1c57bed.jpg"
+        },
+        {
+          "id": "56142",
+          "name": "Подвеска из золота с бриллиантами и топазом природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Подвеска с 4 бриллиантами природными, 0.007 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки Б; 1 топазом, 2.156 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_56142.html",
+          "image": "../img/catalog/56142.jpg",
+          "price": 6990,
+          "sourceImage": "https://g3.sunlight.net/media/products/567bbac75b4053f747169f6f53e7d7bb340d827c.jpg"
+        },
+        {
+          "id": "413014",
+          "name": "Подвеска из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Подвеска, вставка: фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_23267.html",
+          "image": "../img/catalog/413014.jpg",
+          "price": 1290,
+          "sourceImage": "https://g9.sunlight.net/media/products/8a54d9d4b8168f3fe76817d0fc4618668e3e39a8.jpg"
+        },
+        {
+          "id": "267178",
+          "name": "Подвеска из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Подвеска, вставка: фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_267178.html",
+          "image": "../img/catalog/267178.jpg",
+          "price": 790,
+          "sourceImage": "https://g0.sunlight.net/media/products/c764c6060b60516a86bf9f6aa877bdb532e5a6aa.jpg"
+        },
+        {
+          "id": "83452",
+          "name": "Серебряная подвеска с жемчугом и фианитами",
+          "brand": "BASTET",
+          "description": "Подвеска, вставка: жемчуг пресноводный культивированный белый; фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_83452.html",
+          "image": "../img/catalog/83452.jpg",
+          "price": 1190,
+          "sourceImage": "https://g4.sunlight.net/media/products/d9e85157739d0aedfcc2be11ecbba1d4e0dd959b.jpg"
+        }
+      ]
+    },
+    "peridot": {
+      "label": "Украшения с хризолитом",
+      "url": "https://sunlight.net/catalog/ukrasheniya-s-hrizolitom.html",
+      "products": [
+        {
+          "id": "376894",
+          "name": "Подвеска из золота с бриллиантами , цитрином, хризолитом, топазом и аметистом природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Подвеска с 5 бриллиантами природными, 0.012 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 топазом свисс природным, 0.195 карат; 1 хризолитом природным, 0.155 карат; 1 аметистом природным, 0.14 карат; 1 цитрином природным, 0.135 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_338012.html",
+          "image": "../img/catalog/376894.jpg",
+          "price": 8990,
+          "sourceImage": "https://g4.sunlight.net/media/products/ec3b9dc1-719c-11ef-b518-005056bccafe.jpg"
+        },
+        {
+          "id": "379212",
+          "name": "Серьги из золота с бриллиантами , цитринами, хризолитами, топазами и аметистами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 10 бриллиантами природными, 0.026 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 топазами свисс природными, 0.36 карат; 2 хризолитами природными, 0.355 карат; 2 цитринами природными, 0.28 карат; 2 аметистами природными, 0.26 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_338011.html",
+          "image": "../img/catalog/379212.jpg",
+          "price": 21990,
+          "sourceImage": "https://g6.sunlight.net/media/products/0610f1c1c1ea65a227f1f11793a0ddf47222cbdd.jpg"
+        },
+        {
+          "id": "376893",
+          "name": "Кольцо из золота с бриллиантами, цитрином, хризолитом, топазом и аметистом природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 5 бриллиантами природными, 0.012 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 топазом свисс природным, 0.165 карат; 1 хризолитом природным, 0.165 карат; 1 цитрином природным, 0.15 карат; 1 аметистом природным, 0.13 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_338010.html",
+          "image": "../img/catalog/376893.jpg",
+          "price": 16990,
+          "sourceImage": "https://g8.sunlight.net/media/products/168d5f2d3f5c1b1cbd39c00c4c04cb855db63556.jpg"
+        },
+        {
+          "id": "429242",
+          "name": "Кольцо из золота с хризолитами природными",
+          "brand": "МЦЗ",
+          "description": "Кольцо с 4 хризолитами природными, 0.165 карат; Желтое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_429242.html",
+          "image": "../img/catalog/429242.jpg",
+          "price": 25577,
+          "sourceImage": "https://g8.sunlight.net/media/products/1fe5d591-b1a8-11f1-b7f9-005056bccafe.jpg"
+        },
+        {
+          "id": "399683",
+          "name": "Кольцо из серебра с хризолитом природным",
+          "brand": "BASTET",
+          "description": "Кольцо с 1 хризолитом природным, 0.147 карат; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_399683.html",
+          "image": "../img/catalog/399683.jpg",
+          "price": 945,
+          "sourceImage": "https://g3.sunlight.net/media/products/081bc6b20516b72cbf3496603ee001eac532b62f.jpg"
+        }
+      ]
+    },
+    "platinum": {
+      "label": "Украшения из платины",
+      "url": "https://sunlight.net/catalog/ukrasheniya-iz-platiny.html",
+      "products": [
+        {
+          "id": "186080",
+          "name": "Серьги из платины с бриллиантами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 2 бриллиантами природными, 0.49 карат, огранка принцесса 65 граней, цвет 3, чистота 6, тип огранки А; Платина 950 пробы.",
+          "url": "https://sunlight.net/catalog/earring_186080.html",
+          "image": "../img/catalog/186080.jpg",
+          "price": 173393,
+          "sourceImage": "https://g1.sunlight.net/media/products/32dcf092-0bed-11f1-b726-005056bccafe.jpg"
+        },
+        {
+          "id": "186437",
+          "name": "Кольцо из платины с бриллиантом природным",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 1 бриллиантом природным, 0.236 карат, огранка принцесса 65 граней, цвет 3, чистота 6, тип огранки А; Платина 950 пробы.",
+          "url": "https://sunlight.net/catalog/ring_186437.html",
+          "image": "../img/catalog/186437.jpg",
+          "price": 89993,
+          "sourceImage": "https://g8.sunlight.net/media/products/fa778cdb-5b22-11f0-b645-005056bccafe.jpg"
+        },
+        {
+          "id": "320425",
+          "name": "Серьги из платины с бриллиантами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 48 бриллиантами природными, 0.467 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; Платина 950 пробы.",
+          "url": "https://sunlight.net/catalog/earring_320425.html",
+          "image": "../img/catalog/320425.jpg",
+          "price": 107872,
+          "sourceImage": "https://g3.sunlight.net/media/products/5d92d74a-fc52-11ec-8387-005056b30bd2.jpg"
+        },
+        {
+          "id": "320424",
+          "name": "Кольцо из платины с бриллиантами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 34 бриллиантами природными, 0.324 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; Платина 950 пробы.",
+          "url": "https://sunlight.net/catalog/ring_320424.html",
+          "image": "../img/catalog/320424.jpg",
+          "price": 78193,
+          "sourceImage": "https://g0.sunlight.net/media/products/a313e89d-f5d6-11ec-837f-005056b30bd2.jpg"
+        },
+        {
+          "id": "990080",
+          "name": "Серьги из платины с бриллиантами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 2 бриллиантами природными, 0.154 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 12 бриллиантами природными, 0.375 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 40 бриллиантами природными, 0.302 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; Платина 950 пробы.",
+          "url": "https://sunlight.net/catalog/earring_990080.html",
+          "image": "../img/catalog/990080.jpg",
+          "price": 166393,
+          "sourceImage": "https://g9.sunlight.net/media/products/7f06c61d-5c5f-11ee-b47c-005056bccafe.jpg"
+        }
+      ]
+    },
+    "quartz": {
+      "label": "Украшения с кварцем",
+      "url": "https://sunlight.net/catalog/quartz.html",
+      "products": [
+        {
+          "id": "433071",
+          "name": "Колье с кварцами природными",
+          "brand": "BASTET",
+          "description": "Шейное укр., вставка: кварц микс; Сталь;",
+          "url": "https://sunlight.net/catalog/neck_decoration_433071.html",
+          "image": "../img/catalog/433071.jpg",
+          "price": 1360,
+          "sourceImage": "https://g2.sunlight.net/media/products/d2ef43e5-9b96-11f1-948b-005056bc8f3d.jpg"
+        },
+        {
+          "id": "423983",
+          "name": "Серьги из золота с бриллиантами и кварцами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 12 бриллиантами природными, 0.033 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 кварцами лимонными природными, 0.7 карат; Желтое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_423983.html",
+          "image": "../img/catalog/423983.jpg",
+          "price": 21990,
+          "sourceImage": "https://g5.sunlight.net/media/products/2c12bba61d50802aa67a562044c4db4c42055ca9.jpg"
+        },
+        {
+          "id": "423974",
+          "name": "Кольцо из золота с бриллиантами и кварцем природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 6 бриллиантами природными, 0.016 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 кварцем лимонным природным, 0.3 карат; Желтое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_423974.html",
+          "image": "../img/catalog/423974.jpg",
+          "price": 12990,
+          "sourceImage": "https://g4.sunlight.net/media/products/8ca5ece7-bc9e-11f1-b807-005056bccafe.jpg"
+        },
+        {
+          "id": "339028",
+          "name": "Кольцо из золота с бриллиантами природными и с кварцем природным",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 8 бриллиантами природными, 0.033 карат, огранка круг 17 граней, цвет 2, чистота 2; 14 бриллиантами природными, 0.031 карат, огранка круг 17 граней, цвет 2, чистота 2; 1 кварцем лимонным природным, 0.605 карат; Желтое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_339028.html",
+          "image": "../img/catalog/339028.jpg",
+          "price": 20993,
+          "sourceImage": "https://g6.sunlight.net/media/products/f969b15d5ec1dd97e2484fb95631e230001026fd.jpg"
+        },
+        {
+          "id": "433070",
+          "name": "Браслет с кварцами природными",
+          "brand": "BASTET",
+          "description": "Браслет, вставка: кварц микс; Сталь;",
+          "url": "https://sunlight.net/catalog/bracelets_433070.html",
+          "image": "../img/catalog/433070.jpg",
+          "price": 741,
+          "sourceImage": "https://g6.sunlight.net/media/products/24a6e7c2-9acd-11f1-948a-005056bc8f3d.jpg"
+        }
+      ]
+    },
+    "rings": {
+      "label": "Кольца",
+      "url": "https://sunlight.net/catalog/rings.html",
+      "products": [
+        {
+          "id": "383923",
+          "name": "Кольцо из золота",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_320587.html",
+          "image": "../img/catalog/383923.jpg",
+          "price": 8999,
+          "sourceImage": "https://g2.sunlight.net/media/products/22847adc1687bbccc218b4aa3b84ec6285750a2e.jpg"
+        },
+        {
+          "id": "383921",
+          "name": "Кольцо из золота",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_320588.html",
+          "image": "../img/catalog/383921.jpg",
+          "price": 21845,
+          "sourceImage": "https://g8.sunlight.net/media/products/003deb20-ce5b-11ef-b58e-005056bccafe.jpg"
+        },
+        {
+          "id": "252134",
+          "name": "Серебряное кольцо с фианитами",
+          "brand": "BASTET",
+          "description": "Кольцо, вставка: фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_252134.html",
+          "image": "../img/catalog/252134.jpg",
+          "price": 890,
+          "sourceImage": "https://g9.sunlight.net/media/products/2f9b2b69e1616d33ddae4027c0296d80c41120fa.jpg"
+        },
+        {
+          "id": "332362",
+          "name": "Серебряное кольцо с фианитами",
+          "brand": "BASTET",
+          "description": "Кольцо, вставка: фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_332362.html",
+          "image": "../img/catalog/332362.jpg",
+          "price": 990,
+          "sourceImage": "https://g5.sunlight.net/media/products/905af83e00ac2a89063cfa6cc8a77201ba32292e.jpg"
+        },
+        {
+          "id": "380803",
+          "name": "Кольцо из серебра",
+          "brand": "KRUGER STUDIOS",
+          "description": "Кольцо Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_263120.html",
+          "image": "../img/catalog/380803.jpg",
+          "price": 590,
+          "sourceImage": "https://g8.sunlight.net/media/products/48126d71-62da-11f0-b64f-005056bccafe.jpg"
+        }
+      ]
+    },
+    "ruby": {
+      "label": "Украшения с рубинами",
+      "url": "https://sunlight.net/catalog/silver/ruby.html",
+      "products": [
+        {
+          "id": "341180",
+          "name": "Серьги из золота с бриллиантами природными и рубинами облагороженными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 20 бриллиантами природными, 0.716 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 2 рубинами облагороженными, 1.765 карат, цвет 2, чистота 3, тип огранки Б; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_341180.html",
+          "image": "../img/catalog/341180.jpg",
+          "price": 151834,
+          "sourceImage": "https://g2.sunlight.net/media/products/6d1f5a67976a0c7088db1ba3cbd97145da5cb290.jpg"
+        },
+        {
+          "id": "341177",
+          "name": "Кольцо из золота с бриллиантами природными и рубином облагороженным",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 10 бриллиантами природными, 0.357 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 1 рубином облагороженным, 0.861 карат, цвет 2, чистота 3, тип огранки Б; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_341177.html",
+          "image": "../img/catalog/341177.jpg",
+          "price": 83193,
+          "sourceImage": "https://g5.sunlight.net/media/products/aeda8da7215edf1fe0da99b1cd4a03dff0f9c7b2.jpg"
+        },
+        {
+          "id": "341150",
+          "name": "Кольцо из золота с бриллиантами природными и рубином облагороженным",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 26 бриллиантами природными, 0.055 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 рубином облагороженным, 0.399 карат, цвет 2, чистота 2, тип огранки Б; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_341150.html",
+          "image": "../img/catalog/341150.jpg",
+          "price": 34552,
+          "sourceImage": "https://g7.sunlight.net/media/products/18172d924326e7f5983fe3902d7d421a31c72a25.jpg"
+        },
+        {
+          "id": "341183",
+          "name": "Подвеска из золота с бриллиантами природными и рубином облагороженным",
+          "brand": "Академия Бриллиантов",
+          "description": "Подвеска с 10 бриллиантами природными, 0.357 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 1 рубином облагороженным, 0.849 карат, цвет 2, чистота 3, тип огранки Б; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_341183.html",
+          "image": "../img/catalog/341183.jpg",
+          "price": 67193,
+          "sourceImage": "https://g8.sunlight.net/media/products/ad2e76af0cd19bf9cbdc82089fcd639654837e70.jpg"
+        },
+        {
+          "id": "341151",
+          "name": "Серьги из золота с бриллиантами природными и рубинами облагороженными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 46 бриллиантами природными, 0.098 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 рубинами облагороженными, 0.803 карат, цвет 2, чистота 2, тип огранки Б; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_341151.html",
+          "image": "../img/catalog/341151.jpg",
+          "price": 57594,
+          "sourceImage": "https://g8.sunlight.net/media/products/e53b702938ea4ab8b459adf021bc205fed18b82a.jpg"
+        }
+      ]
+    },
+    "sapphire": {
+      "label": "Украшения с сапфирами",
+      "url": "https://sunlight.net/catalog/sapphire.html",
+      "products": [
+        {
+          "id": "92268",
+          "name": "Серьги из золота с сапфирами облагороженными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 2 сапфирами облагороженными, 0.544 карат, цвет 5, чистота 3, тип огранки В; Розовое и белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_92268.html",
+          "image": "../img/catalog/92268.jpg",
+          "price": 36698,
+          "sourceImage": "https://g6.sunlight.net/media/products/6694d41d8c2f9765b649b08edee6f0c4cc206288.jpg"
+        },
+        {
+          "id": "92267",
+          "name": "Кольцо из золота с сапфиром облагороженным",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 1 сапфиром облагороженным, 0.266 карат, цвет 5, чистота 3, тип огранки В; Розовое и белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_92267.html",
+          "image": "../img/catalog/92267.jpg",
+          "price": 23393,
+          "sourceImage": "https://g0.sunlight.net/media/products/6fd6b66266b6160d6e753c86012e6a1942fe05ce.jpg"
+        },
+        {
+          "id": "356516",
+          "name": "Серьги из белого золота с бриллиантами природными и сапфирами облагороженными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 8 бриллиантами природными, 0.02 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 сапфирами облагороженными, 0.327 карат, цвет 2, чистота 2, тип огранки В; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_90475.html",
+          "image": "../img/catalog/356516.jpg",
+          "price": 26874,
+          "sourceImage": "https://g4.sunlight.net/media/products/02acdff6-7269-11ee-b47c-005056bccafe.jpg"
+        },
+        {
+          "id": "340341",
+          "name": "Кольцо из белого золота с бриллиантами природными и сапфиром облагороженным",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 4 бриллиантами природными, 0.009 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 сапфиром облагороженным, 0.163 карат, цвет 2, чистота 2, тип огранки В; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_90474.html",
+          "image": "../img/catalog/340341.jpg",
+          "price": 17138,
+          "sourceImage": "https://g0.sunlight.net/media/products/4d6d9dee-742f-11ef-b51b-005056bccafe.jpg"
+        },
+        {
+          "id": "389156",
+          "name": "Серьги из белого золота с бриллиантами природными и сапфирами облагороженными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 12 бриллиантами природными, 0.053 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 6 сапфирами облагороженными, 0.765 карат, цвет 2, чистота 2; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_389156.html",
+          "image": "../img/catalog/389156.jpg",
+          "price": 29916,
+          "sourceImage": "https://g7.sunlight.net/media/products/8eebee7d-0e2e-11f0-b5e0-005056bccafe.jpg"
+        }
+      ]
+    },
+    "silver": {
+      "label": "Украшения из серебра",
+      "url": "https://sunlight.net/catalog/silver/",
+      "products": [
+        {
+          "id": "413079",
+          "name": "Серьги из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Серьги, вставка: фианит жёлтый; фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_352749.html",
+          "image": "../img/catalog/413079.jpg",
+          "price": 4990,
+          "sourceImage": "https://g1.sunlight.net/media/products/894c95fa-38ab-11f1-b75f-005056bccafe.jpg"
+        },
+        {
+          "id": "413087",
+          "name": "Колье из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Шейное укр., вставка: фианит жёлтый; фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/neck_decoration_352748.html",
+          "image": "../img/catalog/413087.jpg",
+          "price": 4190,
+          "sourceImage": "https://g2.sunlight.net/media/products/c039eda6-389c-11f1-b75f-005056bccafe.jpg"
+        },
+        {
+          "id": "327285",
+          "name": "Кольцо из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Кольцо, вставка: фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/ring_327285.html",
+          "image": "../img/catalog/327285.jpg",
+          "price": 790,
+          "sourceImage": "https://g0.sunlight.net/media/products/107ac359b7802e681eecf47b273ab591daf8d310.jpg"
+        },
+        {
+          "id": "327286",
+          "name": "Серьги из серебра с фианитами",
+          "brand": "BASTET",
+          "description": "Серьги, вставка: фианитом бесцветным; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_327286.html",
+          "image": "../img/catalog/327286.jpg",
+          "price": 1190,
+          "sourceImage": "https://g8.sunlight.net/media/products/b1073244f92fc392944dd6cda5425dd632008afa.jpg"
+        },
+        {
+          "id": "413071",
+          "name": "Серьги из серебра",
+          "brand": "BASTET",
+          "description": "Серьги, вставка: керамика черная; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_99847.html",
+          "image": "../img/catalog/413071.jpg",
+          "price": 1990,
+          "sourceImage": "https://g9.sunlight.net/media/products/59c2dfa1-38a8-11f1-b75f-005056bccafe.jpg"
+        }
+      ]
+    },
+    "topaz": {
+      "label": "Украшения с топазами",
+      "url": "https://sunlight.net/catalog/topaz.html",
+      "products": [
+        {
+          "id": "983665",
+          "name": "Серьги из белого золота с бриллиантами природными , сапфирами облагороженными и топазами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 24 бриллиантами природными, 0.095 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 64 бриллиантами природными, 0.139 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 топазами свисс природными, 0.559 карат; 4 топазами свисс природными, 0.552 карат; 2 топазами свисс природными, 0.148 карат; 6 сапфирами облагороженными, 0.231 карат, цвет 5, чистота 3, тип огранки В; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_983665.html",
+          "image": "../img/catalog/983665.jpg",
+          "price": 104392,
+          "sourceImage": "https://g0.sunlight.net/media/products/61197775-0366-11ee-b479-005056bc836d.jpg"
+        },
+        {
+          "id": "983663",
+          "name": "Кольцо из белого золота с бриллиантами природными , сапфирами облагороженными и топазами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 17 бриллиантами природными, 0.07 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 53 бриллиантами природными, 0.096 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 топазом свисс природным, 0.276 карат; 3 топазами свисс природными, 0.37 карат; 1 топазом свисс природным, 0.046 карат; 2 сапфирами облагороженными, 0.079 карат, цвет 2, чистота 2, тип огранки В; 2 сапфирами облагороженными, 0.056 карат, цвет 5, чистота 3, тип огранки В; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_18054.html",
+          "image": "../img/catalog/983663.jpg",
+          "price": 67193,
+          "sourceImage": "https://g3.sunlight.net/media/products/a7dcbf5c0c99c684737fdca8db491f67a11dea34.jpg"
+        },
+        {
+          "id": "51676",
+          "name": "Серьги из золота с бриллиантами и топазами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 6 бриллиантами, 0.01 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки Б; 2 топазами, 1.78 карат, тип огранки В; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_51676.html",
+          "image": "../img/catalog/51676.jpg",
+          "price": 19845,
+          "sourceImage": "https://g6.sunlight.net/media/products/46556f00923cde62a132e6407c3bfd6f09420a9b.jpg"
+        },
+        {
+          "id": "51677",
+          "name": "Подвеска из золота с бриллиантами и топазом природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Подвеска с 3 бриллиантами природными, 0.005 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки Б; 1 топазом, 2.327 карат; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_51677.html",
+          "image": "../img/catalog/51677.jpg",
+          "price": 9593,
+          "sourceImage": "https://g8.sunlight.net/media/products/8a2789a07c4dd7fda0d78c2005354f6679e1e199.jpg"
+        },
+        {
+          "id": "316910",
+          "name": "Серьги из серебра с топазами природными",
+          "brand": "BASTET",
+          "description": "Серьги с 2 топазами скай, 1.131 карат;4 топазами скай, 0.853 карат; Серебро 925 пробы.",
+          "url": "https://sunlight.net/catalog/earring_316910.html",
+          "image": "../img/catalog/316910.jpg",
+          "price": 3257,
+          "sourceImage": "https://g3.sunlight.net/media/products/69bbc708c439eb87443bc7b9511c25b15761ccc4.jpg"
+        }
+      ]
+    },
+    "tourmaline": {
+      "label": "Украшения с турмалином",
+      "url": "https://sunlight.net/catalog/izdeliya-iz-turmalina.html",
+      "products": [
+        {
+          "id": "347216",
+          "name": "Колье с турмалинами природными",
+          "brand": "BASTET",
+          "description": "Шейное укр., вставка: турмалин микс; Сталь;",
+          "url": "https://sunlight.net/catalog/neck_decoration_347216.html",
+          "image": "../img/catalog/347216.jpg",
+          "price": 1489,
+          "sourceImage": "https://g0.sunlight.net/media/products/874e7b9d-bd99-11ed-8487-0050568ccb93.jpg"
+        },
+        {
+          "id": "367840",
+          "name": "Подвеска из белого золота с бриллиантами и турмалином природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Подвеска с 2 бриллиантами природными, 0.048 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 2 бриллиантами природными, 0.032 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 2 бриллиантами природными, 0.022 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 1 турмалином розовым природным, 0.196 карат; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_367840.html",
+          "image": "../img/catalog/367840.jpg",
+          "price": 29513,
+          "sourceImage": "https://g8.sunlight.net/media/products/bd2e652d-f324-11ee-b47e-005056bccafe.jpg"
+        },
+        {
+          "id": "367842",
+          "name": "Кольцо из белого золота с бриллиантами природными и с турмалином природным",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 4 бриллиантами природными, 0.095 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 4 бриллиантами природными, 0.064 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 4 бриллиантами природными, 0.04 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 1 турмалином розовым природным, 0.183 карат; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_367842.html",
+          "image": "../img/catalog/367842.jpg",
+          "price": 45913,
+          "sourceImage": "https://g6.sunlight.net/media/products/4396dc3b-f325-11ee-b47e-005056bccafe.jpg"
+        },
+        {
+          "id": "367851",
+          "name": "Серьги из белого золота с бриллиантами и турмалинами природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 4 бриллиантами природными, 0.092 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 4 бриллиантами природными, 0.063 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 4 бриллиантами природными, 0.049 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 2 турмалинами розовыми природными, 0.404 карат; Белое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_367851.html",
+          "image": "../img/catalog/367851.jpg",
+          "price": 43769,
+          "sourceImage": "https://g3.sunlight.net/media/products/becb508a9364e8a9f838822722ba164411d26b01.jpg"
+        },
+        {
+          "id": "428329",
+          "name": "Брошь из золота с бриллиантами и турмалином природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Брошь с 76 бриллиантами природными, 0.274 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 32 бриллиантами природными, 0.059 карат, огранка круг 57 граней, цвет 3, чистота 6, тип огранки А; 1 турмалином розовым природным, 5.295 карат; 1 бриллиантом чёрным облагороженным, 0.005 карат, огранка круг 57 граней, цвет 7, чистота 6, тип огранки А; Желтое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/brooch_428329.html",
+          "image": "../img/catalog/428329.jpg",
+          "price": 399991,
+          "sourceImage": "https://g5.sunlight.net/media/products/35c6b116-dc0e-11f1-b82f-005056bccafe.jpg"
+        }
+      ]
+    },
+    "turquoise": {
+      "label": "Украшения с бирюзой",
+      "url": "https://sunlight.net/catalog/turquoise.html",
+      "products": [
+        {
+          "id": "328259",
+          "name": "Серьги из золота с бриллиантами и бирюзой природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Серьги с 12 бриллиантами природными, 0.048 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 2 бирюзами стабилизорованными; Желтое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/earring_328259.html",
+          "image": "../img/catalog/328259.jpg",
+          "price": 41337,
+          "sourceImage": "https://g3.sunlight.net/media/products/a577f9ccac39287cf1b6539607a4dde899a38984.jpg"
+        },
+        {
+          "id": "267390",
+          "name": "Кольцо из золота с бирюзой природной",
+          "brand": "МЦЗ",
+          "description": "Кольцо с 1 бирюзой стабилизорованной; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_267390.html",
+          "image": "../img/catalog/267390.jpg",
+          "price": 14161,
+          "sourceImage": "https://g3.sunlight.net/media/products/fe5fe33c-908d-11eb-81af-005056b30bd2.jpg"
+        },
+        {
+          "id": "328258",
+          "name": "Кольцо из золота с бриллиантами и бирюзой природными",
+          "brand": "Академия Бриллиантов",
+          "description": "Кольцо с 14 бриллиантами природными, 0.056 карат, огранка круг 17 граней, цвет 2, чистота 2, тип огранки А; 1 бирюзой стабилизорованной; Желтое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/ring_328258.html",
+          "image": "../img/catalog/328258.jpg",
+          "price": 26889,
+          "sourceImage": "https://g0.sunlight.net/media/products/d7ad27993f76058a80e68714634cacb31402374b.jpg"
+        },
+        {
+          "id": "267391",
+          "name": "Подвеска из золота с бирюзой природной",
+          "brand": "МЦЗ",
+          "description": "Подвеска с 1 бирюзой стабилизорованной; Розовое золото 585 пробы.",
+          "url": "https://sunlight.net/catalog/pendants_267391.html",
+          "image": "../img/catalog/267391.jpg",
+          "price": 6301,
+          "sourceImage": "https://g0.sunlight.net/media/products/fe5fe360-908d-11eb-81af-005056b30bd2.jpg"
+        },
+        {
+          "id": "409709",
+          "name": "Браслет из стали с бирюзой природной",
+          "brand": "OKAMI",
+          "description": "Браслет, вставка: Сталь; бирюза; Сталь",
+          "url": "https://sunlight.net/catalog/bracelets_409709.html",
+          "image": "../img/catalog/409709.jpg",
+          "price": 2084,
+          "sourceImage": "https://g6.sunlight.net/media/products/4093b2ee-16c8-11f1-b734-005056bccafe.jpg"
+        }
+      ]
+    },
+    "watches": {
+      "label": "Часы",
+      "url": "https://sunlight.net/catalog/clock/",
+      "products": [
+        {
+          "id": "381554",
+          "name": "Часы SERGEY GRIBNYAKOV мужские",
+          "brand": "SERGEY GRIBNYAKOV",
+          "description": "Часы ГОСТ 26272-98; швейцарский кварц. мех.; корпус сталь; сапфировое стекло Сталь",
+          "url": "https://sunlight.net/catalog/clock_381554.html",
+          "image": "../img/catalog/381554.jpg",
+          "price": 22553,
+          "sourceImage": "https://g4.sunlight.net/media/products/3b7abc40-ab29-11f0-b6ab-005056bccafe.jpg"
+        },
+        {
+          "id": "413407",
+          "name": "Часы BASTET",
+          "brand": "BASTET",
+          "description": "Часы ГОСТ 26272-98; швейцарский кварц. мех; корпус латунь; минеральное стекло Латунь",
+          "url": "https://sunlight.net/catalog/clock_413407.html",
+          "image": "../img/catalog/413407.jpg",
+          "price": 9711,
+          "sourceImage": "https://g1.sunlight.net/media/products/5b3b3c13883fc64a6aad113eb9607678ae667a05.jpg"
+        },
+        {
+          "id": "432258",
+          "name": "Часы мужские SERGEY GRIBNYAKOV",
+          "brand": "SERGEY GRIBNYAKOV",
+          "description": "Часы ГОСТ 26272-98; швейцарский автом. мех.; корпус бронза; сапфировое стекло",
+          "url": "https://sunlight.net/catalog/clock_432258.html",
+          "image": "../img/catalog/432258.jpg",
+          "price": 252690,
+          "sourceImage": "https://g8.sunlight.net/media/products/5ac521aae51243aa92a1421ac28c6aee4613ce52.jpg"
+        },
+        {
+          "id": "412846",
+          "name": "Часы мужские OKAMI",
+          "brand": "OKAMI",
+          "description": "Часы ГОСТ 26272-98; японский кварц. мех.; корпус сталь; минеральное стекло Сталь",
+          "url": "https://sunlight.net/catalog/clock_412846.html",
+          "image": "../img/catalog/412846.jpg",
+          "price": 12232,
+          "sourceImage": "https://g8.sunlight.net/media/products/098661e4-b2a6-11f1-94a8-005056bc8f3d.jpg"
+        },
+        {
+          "id": "391081",
+          "name": "Часы BASTET женские",
+          "brand": "BASTET",
+          "description": "Часы ГОСТ 26272-98; японский кварц. мех.; корпус сталь; минеральное стекло Сталь",
+          "url": "https://sunlight.net/catalog/clock_391081.html",
+          "image": "../img/catalog/391081.jpg",
+          "price": 8901,
+          "sourceImage": "https://g6.sunlight.net/media/products/7f597d502ed95ba4eda910df2779cf554ade0e18.jpg"
+        }
+      ]
+    }
+  }
+}
